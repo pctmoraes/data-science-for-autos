@@ -18,6 +18,13 @@ In this project the following steps were made:
 
 And finally performed the prediction of the car's price for a car with a Highway MPG equals 30
 
+# used tools
+
+- IBM Watson Assistant
+- CVS file for data 
+
+### This project was based on the IBM's Data Analysis course available on edX.org
+
 ---
 
 ### autos table image using a sample of 5 rows
