@@ -19,12 +19,12 @@ And finally performed the prediction of the car's price for a car with a Highway
 
 ![PREDIC_IMG](https://github.com/pctmoraes/data-science-for-autos/blob/main/prediction_img.png)
 
-# used tools
+# Used tools
 
 - IBM Watson Assistant
-- CVS file for data 
+- Automobiles data from the UCI Machine Learning Repository
 
-### This project was based on the IBM's Data Analysis course available on edX.org
+### 🟦 This project was based on the IBM's Data Analysis course available on edX.org
 
 ---
 
